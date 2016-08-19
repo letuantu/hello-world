@@ -1,2 +1,2 @@
 # hello-world
-Just one repository
+Just one repository . Day la phan them vao file txt.
